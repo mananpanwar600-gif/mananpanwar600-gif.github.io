@@ -44,7 +44,7 @@ const DATA = {
 
     { name: "IronPulse (Vibe Coded)", description: "College Project, IronPulse is a Java OOP gym management project built on Spring Boot, with a MongoDB-backed REST API and a lightweight web dashboard for operations. My Contribution: Handled Docker containerization and deployment of the project on Render, ensuring application accessibility. Also prepared and formatted project documentation using Overleaf (LaTeX).", tech: ["Java 21","Spring Boot 3","Spring Data" ,"MongoDB","Maven","Vanilla" ,"HTML", "CSS", "JavaScript", "Docker" , "Render deployment"], image: "assets/images/ip.png", github: "https://github.com/Pranvkumar/IronPluse", demo: "" },
 
-    // { name: "AI Trip Planner", description: "Agentic AI-powered travel planning application.", tech: ["LangGraph"], image: "", github: "https://github.com/mananpanwar600-gif/AI-Trip-Planner", demo: "" }
+    { name: "AI Trip Planner -- MakeMyJourney", description: "Agentic AI-powered travel planning application.Developed an AI-powered travel planning application using Groq LLM, Streamlit, and FastAPI to generate personalized, structured itineraries. Integrated live travel research, weather, location services, and currency conversion for itemized trip budgeting. Implemented itinerary validation, SQLite persistence, and streaming AI follow-ups grounded in saved trip plans.", tech: ["LangGraph","LangChain","Python","FatsAPI","SQLite","GroqAI"], image: "assets/images/tp.png", github: "https://github.com/mananpanwar600-gif/AI-Trip-Planner", demo: "" }
   ],
 
   hackathons: [
